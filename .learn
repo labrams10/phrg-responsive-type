@@ -7,3 +7,4 @@ tags:
 type:
   - lecture
 resources: 3
+parent_template: git@github.com:learn-co-curriculum/responsive-type.git

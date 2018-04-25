@@ -68,7 +68,4 @@ As we mentioned, paragraphs by default normally only occupy one column. However,
 - [Responsive Type Sizing - Code Example](http://jsfiddle.net/flatiron_school/H6cN5/)
 - [Responsive Type Column Count - Code Example](http://jsfiddle.net/flatiron_school/vy43K/2/)
 
-<p data-visibility='hidden'>View <a href='https://learn.co/lessons/responsive-type' title='Responsive Type'>Responsive Type</a> on Learn.co and start learning to code for free.</p>
-<p data-visibility='hidden'>View <a href='https://learn.co/lessons/responsive-type'>Responsive Type</a> on Learn.co and start learning to code for free.</p>
-
-<p class='util--hide'>View <a href='https://learn.co/lessons/responsive-type'>Responsive Type</a> on Learn.co and start learning to code for free.</p>
+<p data-visibility='hidden'>PHRG Responsive Type</p>
