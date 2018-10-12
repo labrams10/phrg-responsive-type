@@ -68,4 +68,8 @@ As we mentioned, paragraphs by default normally only occupy one column. However,
 - [Responsive Type Sizing - Code Example](http://jsfiddle.net/flatiron_school/H6cN5/)
 - [Responsive Type Column Count - Code Example](http://jsfiddle.net/flatiron_school/vy43K/2/)
 
+## Does this need an update?
+
+Please open a [GitHub issue](https://github.com/learn-co-curriculum/phrg-responsive-type/issues) or [pull-request](https://github.com/learn-co-curriculum/phrg-responsive-type/pulls). Provide a detailed description that explains the issue you have found or the change you are proposing. Then "@" mention your instructor on the issue or pull-request, and send them a link via Connect.
+
 <p data-visibility='hidden'>PHRG Responsive Type</p>
